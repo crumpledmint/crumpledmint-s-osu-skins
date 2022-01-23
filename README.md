@@ -1,5 +1,6 @@
 # crumpledmint-s-osu-skins
 
+I am to lazy to update screenshots so some elements could not match
 
 # **[Bacon Echidna](https://drive.google.com/file/d/12TY_J1fQMgKLHJkCF_5FsjZh998I4gAK/view?usp=sharing)**
 ![screenshot007](https://user-images.githubusercontent.com/95003914/147432410-20c704c7-c410-46cd-8490-9a660b3d189b.png)
