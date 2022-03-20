@@ -2,34 +2,26 @@
 
 I am to lazy to update screenshots so some elements could not match
 
-# **[Bacon Echidna](https://drive.google.com/file/d/12TY_J1fQMgKLHJkCF_5FsjZh998I4gAK/view?usp=sharing)**
-![screenshot007](https://user-images.githubusercontent.com/95003914/147432410-20c704c7-c410-46cd-8490-9a660b3d189b.png)
+# **[cmda](https://drive.google.com/file/d/13KpIuqzp6tc-OMCMwTMT634VnlNmGwi_/view?usp=sharing)**
+![screenshot035](https://user-images.githubusercontent.com/95003914/159175758-8f01b099-36d2-485c-9fc8-5286136e8833.png)
 
+# **[cmdt](https://drive.google.com/file/d/13NeDjtt1_FXJA-ASbZidRuo9-FTGDIHg/view?usp=sharing)**
+![screenshot036](https://user-images.githubusercontent.com/95003914/159175789-28ba60fc-e311-4cfe-8636-16b1cc1c6877.png)
 
-# **[Bacon boi 1.0]( https://skins.osuck.net/index.php?newsid=1648)**
-![image](https://user-images.githubusercontent.com/95003914/147431915-411c075b-cb1e-4d49-941a-c5e89edf0dbc.png)
+# **[cdtb](https://drive.google.com/file/d/13Kby9rDtBBhNN0t9WYJww6p_VcXT0td4/view?usp=sharing)**
+![screenshot037](https://user-images.githubusercontent.com/95003914/159175807-42f4f2b6-2c1d-4460-9b7e-3a7e01116b46.png)
 
+# **[Bacon Boi](https://skins.osuck.net/index.php?newsid=1648)**
+![image](https://user-images.githubusercontent.com/95003914/159175855-8248a4fc-504f-464f-b8c1-4f6162f580d2.png)
 
-# **[Bacon DT](https://drive.google.com/file/d/13EubRpCZvICNG4EJsZI-jSzV4iE7fYaj/view?usp=sharing)**
-![screenshot023](https://user-images.githubusercontent.com/95003914/150677248-dc8ad4a5-eb42-439c-80f8-e16569730fe3.png)
-
-
-
-# **[DTMC edit](https://drive.google.com/file/d/12gom8R1Qeqf9jdlT8k3zGMjDLi-RhdbP/view?usp=sharing)**
-![screenshot012](https://user-images.githubusercontent.com/95003914/147432854-cf0704d2-b707-49fd-ae15-9d94cbf010a7.png)
-
-
-# **[Rafis HDDT Mrekk](https://drive.google.com/file/d/13BhRT3dopPpCqFSx9jaVUloAA4sTHd26/view?usp=sharing)**
-![screenshot013](https://user-images.githubusercontent.com/95003914/147433691-40335631-fc6e-4d9c-aafc-9b8696600267.png)
-
-
-# **[Rafis HDDT Mrekk blue sliders](https://drive.google.com/file/d/13BKiiZSrkbnYdIe9nXy6mD0ibiwHZrPq/view?usp=sharing)**
-![screenshot015](https://user-images.githubusercontent.com/95003914/147433789-73985aa8-cd65-4384-8d87-1578439d609a.png)
-
-
-# **[Rafis HDDT Mrekk + Aricin](https://drive.google.com/file/d/138FrrbP2BU5vyBDWzogET4rCTvL0pEZO/view?usp=sharing)**
-![screenshot014](https://user-images.githubusercontent.com/95003914/147433828-570d59df-df05-4208-96ce-ec170518913d.png)
-
+# **[WhiteCat 1.0](https://skins.osuck.net/index.php?newsid=1107)**
+![image](https://user-images.githubusercontent.com/95003914/159175920-00c7c7cd-28a2-4461-aa69-d8f1a2f8806e.png)
 
 # **[WhiteCat 2.1](https://skins.osuck.net/index.php?newsid=2021)**
-![image](https://user-images.githubusercontent.com/95003914/147435768-ebca7166-553a-4225-b28d-ff39fe501399.png)
+![image](https://user-images.githubusercontent.com/95003914/159175953-d6641477-3b1a-48c6-a880-4fcfa7c14129.png)
+
+# **[FlyingTuna](https://skins.osuck.net/index.php?newsid=1552)**
+https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg
+
+And some other skins that you probably could find by searching it
+If you'll have any questions ask them in chat
