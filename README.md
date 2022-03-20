@@ -21,7 +21,8 @@ I am to lazy to update screenshots so some elements could not match
 ![image](https://user-images.githubusercontent.com/95003914/159175953-d6641477-3b1a-48c6-a880-4fcfa7c14129.png)
 
 # **[FlyingTuna](https://skins.osuck.net/index.php?newsid=1552)**
-https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg
+![image](https://user-images.githubusercontent.com/95003914/159176148-8cc79d35-6fab-4d96-b1c7-21e4ef09b138.png)
+
 
 And some other skins that you probably could find by searching it
 If you'll have any questions ask them in chat
